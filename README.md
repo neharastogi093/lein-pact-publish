@@ -6,7 +6,7 @@ A Leiningen plugin to publish pacts to pact broker.
 
 Use this for user-level plugins:
 
-Put `[lein-pact-publish "0.1.0"]` into the `:plugins` vector of your project.clj.
+Put `[lein-pact-publish "0.1.0-SNAPSHOT"]` into the `:plugins` vector of your project.clj.
 
 ## Usage
 
